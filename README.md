@@ -17,7 +17,7 @@ This approach allows Zero-DCE to enhance images without ground truth supervision
 
 Below are sample results showcasing the enhancement produced by the model.
 
-![Sample Outputs](assets/sample_outputs.png)
+![Sample Outputs](assets/__results___23_0.png)
 
 ---
 
